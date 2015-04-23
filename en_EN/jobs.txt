@@ -2,7 +2,6 @@ Aromatherapist
 Lift Engineer
 Missionary
 Construction Worker
-Tailor
 Physiotherapist
 Model
 Data Processor

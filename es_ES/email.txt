@@ -4,3 +4,9 @@
 @msn.com
 @outlook.com
 @hotmail.com
+@gmail.com.mx
+@aol.com.mx
+@yahoo.com.mx
+@msn.com.mx
+@outlook.com.mx
+@hotmail.com.mx
